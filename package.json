@@ -1,0 +1,18 @@
+{
+  "name": "babel-register-ts",
+  "version": "7.0.0",
+  "description": "`@babel/register` wrapper with additional `.ts` and `.tsx` extensions",
+  "keywords": "babel, register, typescript, ts, tsx",
+  "homepage": "https://github.com/deepsweet/babel-register-ts",
+  "repository": "deepsweet/babel-register-ts",
+  "author": "Kir Belevich <kir@belevi.ch> (https://twitter.com/deepsweet)",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/register": "^7.0.0-0"
+  }
+}
